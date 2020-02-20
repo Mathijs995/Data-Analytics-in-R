@@ -9,7 +9,7 @@ Welcome to the Github repository of the 'Data Analytics in R' workshop created b
 - [r-statistics.co - ggplot2 tutorial 1](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
 - [r-statistics.co - ggplot2 tutorial 2](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part2-Customizing-Theme-With-R-Code.html)
 - [r-statistics.co - ggplot2 tutorial 3](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
-- [SMT - Data set]()
+- [SMT - Data set](https://drive.google.com/file/d/1XjBVXZaFuFc_wRYO6vZQWII3skz-40AE/view?usp=sharing)
 
 ## Mistakes or Inconsistencies
 Found a mistake or inconsistency? [Open a new issue](https://github.com/Mathijs995/Data-Analytics-in-R/issues) here on GitHub or [send me an email](mailto:mathijs@accelerytics.com).
